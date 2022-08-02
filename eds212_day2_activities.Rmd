@@ -1,0 +1,12 @@
+---
+title: "Task 2 EDS 212"
+author: "Dalila Lara"
+date: "2022-08-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(palmerpenguins)
+```
